@@ -1,6 +1,5 @@
 # 📊 Instagram Fake / Spammer Account Detection
-### Machine Learning | Data Analysis | Feature Engineering
-### Internship Project – Unified Mentor
+
 
 ---
 
@@ -108,7 +107,7 @@ Accounts are categorized into:
 
 This adds a real-world business intelligence layer to the project.
 
-💼 Real-World Applications
+# 💼 Real-World Applications
 
 Social Media Fraud Detection
 
@@ -120,7 +119,7 @@ Cybersecurity Monitoring
 
 Digital Marketing Analysis
 
-🔥 Unique Concepts Added
+# 🔥 Unique Concepts Added
 
 ✔ Engagement Ratio Feature Engineering
 ✔ Risk Categorization System
@@ -128,7 +127,7 @@ Digital Marketing Analysis
 ✔ Multiple Advanced Visualizations
 ✔ Business-Oriented Interpretation
 
-📌 Project Structure
+# 📌 Project Structure
 Instagram-Fake-Detection/
 │
 ├── train.csv
@@ -136,7 +135,7 @@ Instagram-Fake-Detection/
 ├── Instagram_Fake_Detection.ipynb
 └── README.md
 
-📊 Conclusion
+# 📊 Conclusion
 
 This project successfully demonstrates the application of Machine Learning in detecting fake Instagram accounts.
 
@@ -150,7 +149,8 @@ Production-level enhancement
 
 Fraud detection system prototypes
 
-👩‍💻 Author
+# 👩‍💻 Author
 
-Minakshi
-Data Analysis & Machine Learning Enthusiast
+## Minakshi
+
+## Data Analysis & Machine Learning Enthusiast
