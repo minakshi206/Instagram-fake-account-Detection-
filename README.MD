@@ -150,7 +150,7 @@ An interactive dashboard was built using Tableau Desktop to visualize:
 
 The dashboard provides clear visual differentiation between fake and genuine account behavior.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](./dashboard.png)
 
 ---
 
@@ -210,6 +210,7 @@ This project is suitable for:
 
 **Minakshi**  
 Data Analysis & Machine Learning Enthusiast
+
 
 
 
